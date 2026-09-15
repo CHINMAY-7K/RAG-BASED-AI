@@ -49,10 +49,10 @@ Answer
 
 
 ## Tech Stack
-Python
-RAG
-NLP
-Embeddings
-LLM
-Git/GitHub
+Python |
+RAG |
+NLP |
+Embeddings |
+LLM |
+Git/GitHub |
 
