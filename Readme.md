@@ -19,15 +19,14 @@ Read the joblib file and load it into the memory. Then create a relevant prompt 
 
 
 
-
-## Overview
-
 ## Features
 - Video-to-text processing
 - Text chunking
 - Embedding generation
 - Semantic retrieval
 - LLM-based response generation
+
+  
 
 ## Architecture
 Video
@@ -47,6 +46,7 @@ Relevant Context
 LLM
  ↓
 Answer
+
 
 ## Tech Stack
 Python
