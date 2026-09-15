@@ -1,0 +1,7 @@
+I am teaching DSA in 90 Days for Placements course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"LINKED LIST2 - DSA in 90 Days for Placements","number":"09","start":389.48,"end":394.48,"text":" when we are here, next is here and previous is in curr.next"},{"title":"LINKED LIST2 - DSA in 90 Days for Placements","number":"09","start":401.48,"end":404.08,"text":" so that when curr is here in next iteration"},{"title":"ARRAY1 - DSA in 90 Days for Placements","number":"03","start":40.0,"end":42.0,"text":" In place means in this array."},{"title":"ARRAY3 - DSA in 90 Days for Placements","number":"05","start":367.68,"end":369.68,"text":" But here"},{"title":"BINARY SEARCH - DSA in 90 Days for Placements","number":"10","start":467.16,"end":469.16,"text":" But in this, left and right are crossing each other."}]
+---------------------------------
+"where is though array in this cource"
+
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

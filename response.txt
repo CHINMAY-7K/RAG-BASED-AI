@@ -1,0 +1,14 @@
+You’ll find the discussion about arrays in two places in the **“DSA in 90 Days for Placements”** series:
+
+| Topic | Video (title / number) | Approx. time in the video | What’s covered |
+|-------|------------------------|---------------------------|----------------|
+| Basic array concepts (e.g., “in‑place” operations) | **ARRAY1 – DSA in 90 Days for Placements** (Video 03) | **0 min 40 s – 0 min 42 s** | Introduction to what “in place” means when working with an array. |
+| Further array‑related details | **ARRAY3 – DSA in 90 Days for Placements** (Video 05) | **6 min 07 s – 6 min 09 s** | Continuation of the array discussion (the snippet shows “But here…”, indicating the next point in the array topic). |
+
+**How to get there**
+
+1. Open the course playlist or navigate to the video list.  
+2. Jump to **Video 03** (ARRAY1) and skip to **≈0:40** to see the first array explanation.  
+3. If you want more, go to **Video 05** (ARRAY3) and move the playback to **≈6:07** for the follow‑up content.
+
+If you have any other questions about the course — linked lists, binary search, sorting, etc. — just let me know and I’ll point you to the exact video and timestamp!
