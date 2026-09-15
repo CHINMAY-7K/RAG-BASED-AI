@@ -4,13 +4,13 @@
 Move all your video files to the videos folder
 
 ## Step 2 - Convert to mp3
-Convert all the video files to mp3 by ruunning video_to_mp3
+Convert all the video files to mp3 by ruunning ##process_video
 
 ## Step 3 - Convert mp3 to json 
-Convert all the mp3 files to json by ruunning mp3_to_json
+Convert all the mp3 files to json by ruunning ##create_chunks
 
 ## Step 4 - Convert the json files to Vectors
-Use the file preprocess_json to convert the json files to a dataframe with Embeddings and save it as a joblib pickle
+Use the file ##read_chunks to convert the json files to a dataframe with Embeddings and save it as a joblib pickle
 
 ## Step 5 - Prompt generation and feeding to LLM
 
